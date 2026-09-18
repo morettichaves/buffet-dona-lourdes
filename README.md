@@ -4,6 +4,10 @@
 
 **[Clique aqui para visitar o Buffet Dona Lurdes](https://morettichaves.github.io/buffet-dona-lourdes/)**
 
+## Apresentação do projeto
+
+[**Baixar apresentação estratégica em PowerPoint**](apresentacao/Do-Sabor-a-Escolha-Estrategia-Buffet-Dona-Lurdes.pptx)
+
 ## Sobre o projeto
 
 Este é um **exercício acadêmico de planejamento estratégico e design visual**, desenvolvido para a Escola Zion.
