@@ -2,7 +2,7 @@
 
 ## Acesse o site
 
-**[Clique aqui para visitar o Buffet Dona Lurdes](https://buffet-dona-lurdes-moretti.morettichaves.chatgpt.site)**
+**[Clique aqui para visitar o Buffet Dona Lurdes](https://morettichaves.github.io/buffet-dona-lourdes/)**
 
 Projeto demonstrativo criado com HTML, CSS e JavaScript puro.
 
