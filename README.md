@@ -6,7 +6,7 @@
 
 ## Apresentação do projeto
 
-[**Baixar apresentação estratégica em PowerPoint**](apresentacao/Do-Sabor-a-Escolha-Estrategia-Buffet-Dona-Lurdes.pptx)
+[**Baixar apresentação estratégica em PowerPoint**](https://raw.githubusercontent.com/morettichaves/buffet-dona-lourdes/main/apresentacao/Do-Sabor-a-Escolha-Estrategia-Buffet-Dona-Lurdes.pptx)
 
 ## Sobre o projeto
 
